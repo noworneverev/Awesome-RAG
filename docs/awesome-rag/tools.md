@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # RAG Tools
 
-## Data Frameworks
+## Libraries/Frameworks
 
 | **Name**                                                                 | **About**                                          | **Stars** |
 |--------------------------------------------------------------------------|----------------------------------------------------------|----------------|
@@ -13,10 +13,13 @@ sidebar_position: 1
 | [LlamaIndex](https://github.com/run-llama/llama_index)                   | A data framework for your LLM applications.              | [![Stars](https://img.shields.io/github/stars/run-llama/llama_index?style=flat)](https://github.com/run-llama/llama_index/stargazers) |
 | [FlowiseAI](https://github.com/FlowiseAI/Flowise)                        | Drag & drop UI to build your customized LLM flow.        | [![Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=flat)](https://github.com/FlowiseAI/Flowise/stargazers) |
 | [Haystack](https://github.com/deepset-ai/haystack)                       | LLM orchestration framework to build customizable, production-ready LLM applications. | [![Stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=flat)](https://github.com/deepset-ai/haystack/stargazers) |
-| [Cognita](https://github.com/truefoundry/cognita)                        | RAG Framework for building modular, open source applications for production. | [![Stars](https://img.shields.io/github/stars/truefoundry/cognita?style=flat)](https://github.com/truefoundry/cognita/stargazers) |
 | [RAGFlow](https://github.com/infiniflow/ragflow)                         | An open-source RAG engine based on deep document understanding. | [![Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=flat)](https://github.com/infiniflow/ragflow/stargazers) |
+| [Cognita](https://github.com/truefoundry/cognita)                        | RAG Framework for building modular, open source applications for production. | [![Stars](https://img.shields.io/github/stars/truefoundry/cognita?style=flat)](https://github.com/truefoundry/cognita/stargazers) |
+| [fastRAG](https://github.com/IntelLabs/fastRAG)                       | Efficient Retrieval Augmentation and Generation Framework. | [![Stars](https://img.shields.io/github/stars/IntelLabs/fastRAG?style=flat)](https://github.com/IntelLabs/fastRAG/stargazers) |
+| [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)                       | RAG AutoML Tool - Find optimal RAG pipeline for your own data. | [![Stars](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG?style=flat)](https://github.com/Marker-Inc-Korea/AutoRAG/stargazers) |
+| [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG)                       | A Python Toolkit for Efficient RAG Research. | [![Stars](https://img.shields.io/github/stars/RUC-NLPIR/FlashRAG?style=flat)](https://github.com/RUC-NLPIR/FlashRAG/stargazers) |
 
-### Data Frameworks Tutorials
+### Framework Tutorials
 - LangChain:
   - [LangChain: Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning-AI-blue)
   - [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning-AI-blue)
@@ -37,10 +40,10 @@ sidebar_position: 1
 |[crewAI](https://github.com/crewAIInc/crewAI)|Cutting-edge framework for orchestrating role-playing, autonomous AI agents.| [![Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat)](https://github.com/crewAIInc/crewAI/stargazers) |
 | [BabyAGI](https://github.com/yoheinakajima/babyagi)                      | An AI-powered autonomous task manager.                  | [![Stars](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=flat)](https://github.com/yoheinakajima/babyagi/stargazers) |
 
-### Agents Related Projects
+### Agent-Related Projects
 - [AI Agent Service Toolkit](https://github.com/JoshuaC215/agent-service-toolkit): Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
 
-### Agents Tutorials
+### Agent Tutorials
 
 - LangGraph:
   - [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/) ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning-AI-blue)
@@ -55,7 +58,7 @@ sidebar_position: 1
 |--------------------------------------------------------------------------|----------------------------------------------------------|----------------|
 | [GraphRAG](https://github.com/microsoft/graphrag)                        | A modular graph-based Retrieval-Augmented Generation (RAG) system. | [![Stars](https://img.shields.io/github/stars/microsoft/graphrag?style=flat)](https://github.com/microsoft/graphrag/stargazers) |
 
-### GraphRAG Related Projects
+### GraphRAG-Related Projects
 - [GraphRAG-Visualizer](https://github.com/noworneverev/graphrag-visualizer): A web-based tool for visualizing and exploring artifacts from Microsoft's GraphRAG.
 - [nano-GraphRAG](https://github.com/gusye1234/nano-graphrag): A Simple GraphRAG Implementation.
 
@@ -78,7 +81,7 @@ sidebar_position: 1
 | [Vearch](https://github.com/vearch/vearch)                               | Distributed vector search for AI-native applications. | [![Stars](https://img.shields.io/github/stars/vearch/vearch?style=flat)](https://github.com/vearch/vearch/stargazers) |
 
 
-### Vector Stores Tutorials
+### Vector Store Tutorials
 - Weaviate:
   - [Vector Databases: from Embeddings to Applications](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/) ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning-AI-blue)
 - Pinecone:
