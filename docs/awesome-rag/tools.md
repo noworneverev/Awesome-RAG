@@ -124,6 +124,7 @@ sidebar_position: 1
 
 | **Name**                                                                 | **About**                                          | **Stars** |
 |--------------------------------------------------------------------------|----------------------------------------------------------|----------------|
+| [kotaemon](https://github.com/Cinnamon/kotaemon)                               | An open-source RAG-based tool for chatting with your documents. | [![Stars](https://img.shields.io/github/stars/Cinnamon/kotaemon?style=flat)](https://github.com/Cinnamon/kotaemon/stargazers) |
 | [Verba](https://github.com/weaviate/verba)                               | Retrieval Augmented Generation (RAG) chatbot powered by Weaviate. | [![Stars](https://img.shields.io/github/stars/weaviate/verba?style=flat)](https://github.com/weaviate/verba/stargazers) |
 | [Streamlit](https://github.com/streamlit/streamlit)                      | A faster way to build and share data apps. | [![Stars](https://img.shields.io/github/stars/streamlit/streamlit?style=flat)](https://github.com/streamlit/streamlit/stargazers) |
 | [Gradio](https://github.com/gradio-app/gradio)                           | Build and share delightful machine learning apps. | [![Stars](https://img.shields.io/github/stars/gradio-app/gradio?style=flat)](https://github.com/gradio-app/gradio/stargazers) |
