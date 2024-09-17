@@ -119,6 +119,8 @@ sidebar_position: 1
 | [PDFPlumber](https://github.com/jsvine/pdfplumber)                       | Extracts tables, text, and metadata from PDFs.           | [![Stars](https://img.shields.io/github/stars/jsvine/pdfplumber?style=flat)](https://github.com/jsvine/pdfplumber/stargazers) |
 | [MinerU](https://github.com/opendatalab/MinerU)                          | A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.    | [![Stars](https://img.shields.io/github/stars/opendatalab/MinerU?style=flat)](https://github.com/opendatalab/MinerU/stargazers) |
 | [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)        | A Comprehensive Toolkit for High-Quality PDF Content Extraction. | [![Stars](https://img.shields.io/github/stars/opendatalab/PDF-Extract-Kit?style=flat)](https://github.com/opendatalab/PDF-Extract-Kit/stargazers) |
+| [grobid](https://github.com/kermitt2/grobid)        | A machine learning software for extracting information from scholarly documents. | [![Stars](https://img.shields.io/github/stars/kermitt2/grobid?style=flat)](https://github.com/kermitt2/grobid/stargazers) |
+| [GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)        | Official code implementation of General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model. | [![Stars](https://img.shields.io/github/stars/Ucas-HaoranWei/GOT-OCR2.0?style=flat)](https://github.com/Ucas-HaoranWei/GOT-OCR2.0/stargazers) |
 
 ## UI/Interface
 
