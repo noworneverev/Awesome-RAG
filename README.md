@@ -84,6 +84,13 @@
   - [Vector Databases: from Embeddings to Applications](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/) ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning-AI-blue)
 - Pinecone:
   - [Building Applications with Vector Databases](https://www.deeplearning.ai/short-courses/building-applications-vector-databases/) ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning-AI-blue)
+ 
+### RAG Data Preparation Frameworks
+
+| **Name**                                                                 | **About**                                          | **Stars** |
+|--------------------------------------------------------------------------|----------------------------------------------------------|----------------|
+| [CocoIndex](https://github.com/cocoindex-io/cocoindex)                                   | ETL to prepare fresh data for RAG | [![Stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex?style=flat)](https://github.com/cocoindex-io/cocoindex/stargazers) |
+
 
 ## Memory Systems
 
