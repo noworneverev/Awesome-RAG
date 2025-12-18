@@ -36,6 +36,7 @@
 | [LangGraph](https://github.com/langchain-ai/langgraph)                   | Build resilient language agents as graphs.               | [![Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=flat)](https://github.com/langchain-ai/langgraph/stargazers) |
 | [AutoGen](https://github.com/microsoft/autogen)                          | A programming framework for agentic AI 🤖                | [![Stars](https://img.shields.io/github/stars/microsoft/autogen?style=flat)](https://github.com/microsoft/autogen/stargazers) |
 |[crewAI](https://github.com/crewAIInc/crewAI)|Cutting-edge framework for orchestrating role-playing, autonomous AI agents.| [![Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat)](https://github.com/crewAIInc/crewAI/stargazers) |
+|[PraisonAI](https://github.com/MervinPraison/PraisonAI)|Production-ready Multi-AI Agents framework with self-reflection. Fastest agent instantiation (3.77μs), 100+ LLM support, MCP integration, agentic workflows.| [![Stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=flat)](https://github.com/MervinPraison/PraisonAI/stargazers) |
 | [BabyAGI](https://github.com/yoheinakajima/babyagi)                      | An AI-powered autonomous task manager.                  | [![Stars](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=flat)](https://github.com/yoheinakajima/babyagi/stargazers) |
 
 ### Agent-Related Projects
