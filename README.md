@@ -120,6 +120,7 @@
 | [GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)        | Official code implementation of General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model. | [![Stars](https://img.shields.io/github/stars/Ucas-HaoranWei/GOT-OCR2.0?style=flat)](https://github.com/Ucas-HaoranWei/GOT-OCR2.0/stargazers) |
 | [marker](https://github.com/VikParuchuri/marker)        | Convert PDF to markdown + JSON quickly with high accuracy. | [![Stars](https://img.shields.io/github/stars/VikParuchuri/marker?style=flat)](https://github.com/VikParuchuri/marker/stargazers) |
 | [markitdown](https://github.com/microsoft/markitdown)        | Python tool for converting files and office documents to Markdown. | [![Stars](https://img.shields.io/github/stars/microsoft/markitdown?style=flat)](https://github.com/microsoft/markitdown/stargazers) |
+| [file2markdown.ai](https://file2markdown.ai) | AI-powered converter that turns PDFs, Word docs, and images into clean structured Markdown. Optimized for RAG pipelines. Free tier available (20 conversions/day). | [Free tier](https://file2markdown.ai) |
 
 ## Image Processing
 
