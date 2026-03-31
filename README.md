@@ -101,7 +101,7 @@
 
 | **Name**                                                                 | **About**                                                                                   | **Stars** |
 |--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------|
-| [ChunkScore](https://ragprep.com) | Pre-embedding chunk quality auditor for RAG pipelines. Scores chunks across 5 weighted signals before they hit your vector database. | ![SaaS](https://img.shields.io/badge/SaaS-free-00FF88) |
+| [ChunkScore](https://ragprep.com) | Pre-embedding chunk quality auditor for RAG pipelines. Scores chunks across 5 weighted signals before they hit your vector database. Free tier available. | ![Proprietary](https://img.shields.io/badge/Proprietary-red) |
 | [RAGAS](https://github.com/explodinggradients/ragas)                     | Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines.                     | [![Stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=flat)](https://github.com/explodinggradients/ragas/stargazers) |
 |[DeepEval](https://github.com/confident-ai/deepeval)|The LLM Evaluation Framework.|[![Stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=flat)](https://github.com/confident-ai/deepeval/stargazers) |
 | [TruLens](https://github.com/truera/trulens)                             | Evaluation and Tracking for LLM Experiments.                                                      | [![Stars](https://img.shields.io/github/stars/truera/trulens?style=flat)](https://github.com/truera/trulens/stargazers) |
