@@ -16,6 +16,7 @@
 | [fastRAG](https://github.com/IntelLabs/fastRAG)                       | Efficient Retrieval Augmentation and Generation Framework. | [![Stars](https://img.shields.io/github/stars/IntelLabs/fastRAG?style=flat)](https://github.com/IntelLabs/fastRAG/stargazers) |
 | [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)                       | RAG AutoML Tool - Find optimal RAG pipeline for your own data. | [![Stars](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG?style=flat)](https://github.com/Marker-Inc-Korea/AutoRAG/stargazers) |
 | [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG)                       | A Python Toolkit for Efficient RAG Research. | [![Stars](https://img.shields.io/github/stars/RUC-NLPIR/FlashRAG?style=flat)](https://github.com/RUC-NLPIR/FlashRAG/stargazers) |
+| [RAG Enterprise](https://github.com/I3K-IT/RAG-Enterprise) |         100% local RAG system with one-command setup. Self-hosted, GDPR-compliant | ![Stars](https://img.shields.io/github/stars/I3K-IT/RAG-Enterprise?style=flat) |
 
 ### Framework Tutorials
 - LangChain:
@@ -149,6 +150,7 @@
 | [LM Studio](https://lmstudio.ai/)                               | Discover, download, and run local LLMs. | ![Proprietary](https://img.shields.io/badge/Proprietary-red) |
 | [litellm](https://github.com/BerriAI/litellm)                               | Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]. | [![Stars](https://img.shields.io/github/stars/BerriAI/litellm?style=flat)](https://github.com/BerriAI/litellm/stargazers) |
 | [sglang](https://github.com/sgl-project/sglang)                               | SGLang is a fast serving framework for large language models and vision language models. | [![Stars](https://img.shields.io/github/stars/sgl-project/sglang?style=flat)](https://github.com/sgl-project/sglang/stargazers) |
+| [EuLLM](https://github.com/eullm/eullm)                                  | Rust-based inference engine with EU-hosted model registry and built-in AI Act compliance. | [![Stars](https://img.shields.io/github/stars/eullm/eullm?style=flat)](https://github.com/eullm/eullm/stargazers) |
 
 ## References
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
