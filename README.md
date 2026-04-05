@@ -76,6 +76,7 @@
 | [Pinecone](https://www.pinecone.io/)                      | The vector database to build knowledgeable AI. | ![Proprietary](https://img.shields.io/badge/Proprietary-red) |
 | [Qdrant](https://github.com/qdrant/qdrant)                               | High-performance, massive-scale Vector Database for the next generation of AI. | [![Stars](https://img.shields.io/github/stars/qdrant/qdrant?style=flat)](https://github.com/qdrant/qdrant/stargazers) |
 | [PGVector](https://github.com/pgvector/pgvector)                         | Open-source vector similarity search for Postgres. | [![Stars](https://img.shields.io/github/stars/pgvector/pgvector?style=flat)](https://github.com/pgvector/pgvector/stargazers) |
+| [Rivestack](https://rivestack.io)                                     | Managed PostgreSQL with pgvector for AI workloads. Built-in SQL editor lets you query your database with natural language (auto-converted to embeddings). Free tier includes 2GB storage. | |
 | [Vearch](https://github.com/vearch/vearch)                               | Distributed vector search for AI-native applications. | [![Stars](https://img.shields.io/github/stars/vearch/vearch?style=flat)](https://github.com/vearch/vearch/stargazers) |
 
 
