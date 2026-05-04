@@ -120,6 +120,7 @@
 | [GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)        | Official code implementation of General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model. | [![Stars](https://img.shields.io/github/stars/Ucas-HaoranWei/GOT-OCR2.0?style=flat)](https://github.com/Ucas-HaoranWei/GOT-OCR2.0/stargazers) |
 | [marker](https://github.com/VikParuchuri/marker)        | Convert PDF to markdown + JSON quickly with high accuracy. | [![Stars](https://img.shields.io/github/stars/VikParuchuri/marker?style=flat)](https://github.com/VikParuchuri/marker/stargazers) |
 | [markitdown](https://github.com/microsoft/markitdown)        | Python tool for converting files and office documents to Markdown. | [![Stars](https://img.shields.io/github/stars/microsoft/markitdown?style=flat)](https://github.com/microsoft/markitdown/stargazers) |
+| [RAG Markdown Scraper](https://github.com/impkit/rag-markdown-scraper) | Browser extension to transform web pages into clean, RAG-optimized Markdown using Readability.js and Turndown.js. | [![Stars](https://img.shields.io/github/stars/impkit/rag-markdown-scraper?style=flat)](https://github.com/impkit/rag-markdown-scraper/ stargazers) |
 
 ## Image Processing
 
