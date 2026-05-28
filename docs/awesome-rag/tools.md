@@ -99,6 +99,7 @@ sidebar_position: 1
 | **Name**                                                                 | **About**                                          | **Stars** |
 |--------------------------------------------------------------------------|----------------------------------------------------------|----------------|
 | [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)             | A toolkit for easily adding programmable guardrails to LLM-based conversational systems. | [![Stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=flat)](https://github.com/NVIDIA/NeMo-Guardrails/stargazers) |
+| [ai-evaluation](https://github.com/future-agi/ai-evaluation)             | Open-source LLM evaluation framework with guardrail scanners (jailbreak, PII, prompt-injection) plus 50+ metrics including RAG-specific (context recall, context precision, answer relevancy, faithfulness). | [![Stars](https://img.shields.io/github/stars/future-agi/ai-evaluation?style=flat)](https://github.com/future-agi/ai-evaluation/stargazers) |
 
 
 ## Evaluation Frameworks
@@ -110,6 +111,8 @@ sidebar_position: 1
 | [TruLens](https://github.com/truera/trulens)                             | Evaluation and Tracking for LLM Experiments.                                                      | [![Stars](https://img.shields.io/github/stars/truera/trulens?style=flat)](https://github.com/truera/trulens/stargazers) |
 | [ARES](https://github.com/ares-emulator/ares)                            | A cross-platform, open source, multi-system emulator, focusing on accuracy and preservation.       | [![Stars](https://img.shields.io/github/stars/ares-emulator/ares?style=flat)](https://github.com/ares-emulator/ares/stargazers) |
 | [RGB](https://github.com/chen700564/RGB)                                 | Implementation for [Benchmarking Large Language Models in Retrieval-Augmented Generation](https://arxiv.org/abs/2309.01431). | [![Stars](https://img.shields.io/github/stars/chen700564/RGB?style=flat)](https://github.com/chen700564/RGB/stargazers) |
+| [ai-evaluation](https://github.com/future-agi/ai-evaluation)             | Open-source LLM evaluation framework with 50+ metrics including RAG-specific (context recall, context precision, answer relevancy, faithfulness), LLM-as-Judge augmentation, and guardrail scanners. AutoEval pipelines with CI/CD support. | [![Stars](https://img.shields.io/github/stars/future-agi/ai-evaluation?style=flat)](https://github.com/future-agi/ai-evaluation/stargazers) |
+| [traceAI](https://github.com/future-agi/traceAI)                         | Open-source OpenTelemetry-native tracing for LLM and RAG apps. Auto-instruments 50+ frameworks across Python, TypeScript, Java, C# (OpenAI, Anthropic, LangChain, LlamaIndex). No vendor lock-in. | [![Stars](https://img.shields.io/github/stars/future-agi/traceAI?style=flat)](https://github.com/future-agi/traceAI/stargazers) |
 
 ## PDF and Document Processing Tools
 
