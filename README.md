@@ -31,6 +31,9 @@
 
 ## Agents
 
+- [SuperCompress](https://github.com/arjunkshah/supercompress) - Open-source learned prompt compression for LLMs. Cuts ~65% of tokens before inference using a ~5K parameter CPU policy with 100% oracle recall. Check the live demo at https://supercompress.dev. pip install supercompress.
+
+
 | **Name**                                                                 | **About**                                          | **Stars** |
 |--------------------------------------------------------------------------|----------------------------------------------------------|----------------|
 | [LangGraph](https://github.com/langchain-ai/langgraph)                   | Build resilient language agents as graphs.               | [![Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=flat)](https://github.com/langchain-ai/langgraph/stargazers) |
