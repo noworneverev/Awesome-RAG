@@ -106,6 +106,7 @@
 | [TruLens](https://github.com/truera/trulens)                             | Evaluation and Tracking for LLM Experiments.                                                      | [![Stars](https://img.shields.io/github/stars/truera/trulens?style=flat)](https://github.com/truera/trulens/stargazers) |
 | [ARES](https://github.com/ares-emulator/ares)                            | A cross-platform, open source, multi-system emulator, focusing on accuracy and preservation.       | [![Stars](https://img.shields.io/github/stars/ares-emulator/ares?style=flat)](https://github.com/ares-emulator/ares/stargazers) |
 | [RGB](https://github.com/chen700564/RGB)                                 | Implementation for [Benchmarking Large Language Models in Retrieval-Augmented Generation](https://arxiv.org/abs/2309.01431). | [![Stars](https://img.shields.io/github/stars/chen700564/RGB?style=flat)](https://github.com/chen700564/RGB/stargazers) |
+| [Future AGI](https://github.com/future-agi/future-agi)                   | Open-source platform for evaluating LLM and agent apps, with 70+ metrics, multimodal and custom evals, LLM-as-judge, and guardrail scanners. | [![Stars](https://img.shields.io/github/stars/future-agi/future-agi?style=flat)](https://github.com/future-agi/future-agi/stargazers) |
 
 ## PDF and Document Processing Tools
 
