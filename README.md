@@ -90,6 +90,7 @@
 | **Name**                                                                 | **About**                                          | **Stars** |
 |--------------------------------------------------------------------------|----------------------------------------------------------|----------------|
 | [Mem0](https://github.com/mem0ai/mem0)                                   | The memory layer for Personalized AI. | [![Stars](https://img.shields.io/github/stars/mem0ai/mem0?style=flat)](https://github.com/mem0ai/mem0/stargazers) |
+| [Open Index](https://github.com/DrDroidLab/open-index)                   | Structured context graphs with hybrid search and read/write MCP access. | [![Stars](https://img.shields.io/github/stars/DrDroidLab/open-index?style=flat)](https://github.com/DrDroidLab/open-index/stargazers) |
 
 ## Guardrails
 | **Name**                                                                 | **About**                                          | **Stars** |
